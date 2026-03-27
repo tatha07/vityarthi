@@ -75,7 +75,4 @@ The application uses OpenCV's Haar cascade classifiers to:
    - Face present, eyes absent = Writing/Reading
    - No face = Distracted
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
