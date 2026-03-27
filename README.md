@@ -25,7 +25,7 @@ A real-time focus monitoring application that uses computer vision to detect whe
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/tatha07/vityarthi
 cd study-helper
 ```
 
